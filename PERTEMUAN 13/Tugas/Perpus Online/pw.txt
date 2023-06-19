@@ -1,0 +1,7 @@
+username : petugas
+pw: 123
+
+cari data > cari kode yang mau di cari contoh(1002) lalu enter nanti otomatis ter isi sendiri
+hapus data > cari kode yang mau di cari contoh(1002) lalu enter lalu klik hapus
+tambah data > isi semua form lalu klik simpan
+update data > cari kode yang mau di cari contoh(1002) lalu ubah nama/prodi yang baru lalu klik update
